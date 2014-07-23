@@ -357,15 +357,7 @@ gd = &gdata;
  		config_ddr(303, MT41J512M8RH125_IOCTRL_VALUE, &ddr3_evm_data,
  			   &ddr3_evm_cmd_ctrl_data, &ddr3_evm_emif_reg_data);
 
-
  
- 
-
- 		
- 			
- 			
- 			
- 			
 
 
 
